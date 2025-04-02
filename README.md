@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a backend API for a car selling platform built using **Spring Boot**. The platform allows users to post cars for sale, view car listings and manz more. It also includes premium features such as statistics tracking, currency conversion, and a profanity filter for posted cars. The platform includes various functionalities like role-based access control (RBAC), Kafka event streaming, and integration with Azure services.
+This is a backend API for a car selling platform built using **Spring Boot**. The platform allows users to post cars for sale, view car listings and many more. It also includes premium features such as statistics tracking, currency conversion, and a profanity filter for posted cars. The platform includes various functionalities like role-based access control (RBAC), Kafka event streaming, and integration with Azure services.
 
 The goal of this project is to demonstrate my coding skills, ability integrate new technologies, and provide a functional backend application with various features.
 
